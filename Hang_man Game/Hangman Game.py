@@ -1,5 +1,4 @@
 import random
-
 # The List of random words
 
 from Hangman_word_list import word_list
@@ -23,18 +22,21 @@ print(f'This is the chosen word {chosen_word}')
 display = []
 for i in range(word_length):
     display += '_'
+print(display)
 
 while not end_of_game:
     guess = input('Guess a letter: ').lower()
 
     if guess in display:
         print(f'you have already guessed letter: {guess}')
-    #
+    # This is to check and assigned the letter in the chosen word
     for pos in range(word_length):
         letter = chosen_word[pos]
         if letter == guess:
             display[pos] = letter
-
+    ## This was to prin the display after every input
+    # print(display)
+    # IF not in the chosen word then player will lose a life
     if guess not in chosen_word:
         print(f'The guessed letter {guess}, not in the word you loose a life.')
         # If lives are zero you loose
@@ -44,8 +46,10 @@ while not end_of_game:
             end_of_game = True
             print('You Loose!!')
         # If all blanks in display are filled you won without dying.
-        if '_' not in display:
-            end_of_game = True
-            print('You WOn !!!!!')
+    # better representation of the word after every input letter
+    print(f'{" ".join(display)}')
+    if '_' not in display:
+        end_of_game = True
+        print('You WOn !!!!!')
         # this will show the stage of live you left
-        print(stages[lives])
+    print(stages[lives])
