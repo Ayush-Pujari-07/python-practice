@@ -86,6 +86,9 @@ record = collection.find()
 # print(i)
 
 fetch = collection.find({'companyName': 'iNeuron'})
-
-for i in fetch:
+course = collection.find({'courseOffered': {'$gt': 'E'}})
+for i in course:
     print(i)
+
+print(db1.command('buildinfo'))
+# print(db1.command('collstats', collection))
