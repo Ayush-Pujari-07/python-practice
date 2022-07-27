@@ -86,9 +86,91 @@ record = collection.find()
 # print(i)
 
 fetch = collection.find({'companyName': 'iNeuron'})
-course = collection.find({'courseOffered': {'$gt': 'E'}})
+course = collection.find({'courseOffered': {'$gte': 'E'}})
 for i in course:
     print(i)
 
 print(db1.command('buildinfo'))
 # print(db1.command('collstats', collection))
+
+data_new = [
+    {
+        "item": "canvas",
+        "qty": 100,
+        "size": {"h": 28, "w": 35.5, "uom": "cm"},
+        "status": "A",
+    },
+    {
+        "item": "journal",
+        "qty": 25,
+        "size": {"h": 14, "w": 21, "uom": "cm"},
+        "status": "A",
+    },
+    {
+        "item": "mat",
+        "qty": 85,
+        "size": {"h": 27.9, "w": 35.5, "uom": "cm"},
+        "status": "A",
+    },
+    {
+        "item": "mousepad",
+        "qty": 25,
+        "size": {"h": 19, "w": 22.85, "uom": "cm"},
+        "status": "P",
+    },
+    {
+        "item": "notebook",
+        "qty": 50,
+        "size": {"h": 8.5, "w": 11, "uom": "in"},
+        "status": "P",
+    },
+    {
+        "item": "paper",
+        "qty": 100,
+        "size": {"h": 8.5, "w": 11, "uom": "in"},
+        "status": "D",
+    },
+    {
+        "item": "planner",
+        "qty": 75,
+        "size": {"h": 22.85, "w": 30, "uom": "cm"},
+        "status": "D",
+    },
+    {
+        "item": "postcard",
+        "qty": 45,
+        "size": {"h": 10, "w": 15.25, "uom": "cm"},
+        "status": "A",
+    },
+    {
+        "item": "sketchbook",
+        "qty": 80,
+        "size": {"h": 14, "w": 21, "uom": "cm"},
+        "status": "A",
+    },
+    {
+        "item": "sketch pad",
+        "qty": 95,
+        "size": {"h": 22.85, "w": 30.5, "uom": "cm"},
+        "status": "A",
+    },
+]
+
+db2 = client['Inventory']
+collection = db2['table']
+# collection.insert_many(data_new)
+
+# d = collection.find({'status': {'$in': ['A', 'P']}})
+# d = collection.find({'status': {'$gt': 'C'}})
+# d = collection.find({'qty': {'$gte': 80}})
+# d = collection.find({'item': 'sketch pad', 'qty': {'$gte': 95}})  # representation of 'and' operation.
+# d = collection.find({'$or': [{'item': 'sketch pad'}, {'qty': {'$gt': 75}}]})
+
+# for i in d:
+# print(i)
+
+collection.update_one({'item': 'canvas'}, {'$set': {'item': 'Ayush'}})  # will update the selected field the way we want
+# collection.delete_one({'item': 'Ayush'}) # to delete the specific field called
+d = collection.find({'item': 'Ayush'})
+for i in d:
+    print(i)
