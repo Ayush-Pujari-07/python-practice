@@ -1,0 +1,57 @@
+2022-07-28 11:41:26,496 root DEBUG This is my first test code for log
+2022-07-28 11:41:26,497 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 11:41:26,497 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 11:41:26,497 logger2.area2 INFO this is a info for log two
+2022-07-28 11:41:26,497 user3 WARNING this is test warning
+2022-07-28 11:41:26,497 user4 ERROR this is test error
+2022-07-28 11:53:21,044 root DEBUG This is my first test code for log
+2022-07-28 11:53:21,044 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 11:53:21,044 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 11:53:21,044 logger2.area2 INFO this is a info for log two
+2022-07-28 11:53:21,044 user3 WARNING this is test warning
+2022-07-28 11:53:21,044 user4 ERROR this is test error
+2022-07-28 11:55:06,387 root DEBUG This is my first test code for log
+2022-07-28 11:55:06,387 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 11:55:06,387 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 11:55:06,387 logger2.area2 INFO this is a info for log two
+2022-07-28 11:55:06,387 user3 WARNING this is test warning
+2022-07-28 11:55:06,387 user4 ERROR this is test error
+2022-07-28 11:55:28,060 root DEBUG This is my first test code for log
+2022-07-28 11:55:28,060 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 11:55:28,061 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 11:55:28,061 logger2.area2 INFO this is a info for log two
+2022-07-28 11:55:28,061 user3 WARNING this is test warning
+2022-07-28 11:55:28,061 user4 ERROR this is test error
+2022-07-28 11:56:15,967 root DEBUG This is my first test code for log
+2022-07-28 11:56:15,968 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 11:56:15,968 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 11:56:15,968 logger2.area2 INFO this is a info for log two
+2022-07-28 11:56:15,968 user3 WARNING this is test warning
+2022-07-28 11:56:15,969 user4 ERROR this is test error
+2022-07-28 11:57:28,663 root DEBUG This is my first test code for log
+2022-07-28 11:57:28,663 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 11:57:28,663 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 11:57:28,663 logger2.area2 INFO this is a info for log two
+2022-07-28 11:57:28,663 user3 WARNING this is test warning
+2022-07-28 11:57:28,663 user4 ERROR this is test error
+2022-07-28 16:00:24,823 root DEBUG This is my first test code for log
+2022-07-28 16:00:24,845 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 16:00:39,478 root DEBUG This is my first test code for log
+2022-07-28 16:00:39,478 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 16:00:39,478 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 16:00:39,478 logger2.area2 INFO this is a info for log two
+2022-07-28 16:00:39,478 user3 WARNING this is test warning
+2022-07-28 16:00:39,478 user4 ERROR this is test error
+2022-07-28 16:01:20,719 root DEBUG This is my first test code for log
+2022-07-28 16:01:20,719 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 16:01:20,719 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 16:01:20,719 logger2.area2 INFO this is a info for log two
+2022-07-28 16:01:20,719 user3 WARNING this is test warning
+2022-07-28 16:01:20,719 user4 ERROR this is test error
+2022-07-28 16:01:55,020 root DEBUG This is my first test code for log
+2022-07-28 16:01:55,020 Anywhere from data base INFO this is ifo for logger one
+2022-07-28 16:01:55,020 logger2.area2 DEBUG this is debug for log 2
+2022-07-28 16:01:55,020 logger2.area2 INFO this is a info for log two
+2022-07-28 16:01:55,020 user3 WARNING this is test warning
+2022-07-28 16:01:55,020 user4 ERROR this is test error
+2022-07-28 16:01:55,020 root WARNING this for test

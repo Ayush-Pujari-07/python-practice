@@ -1,0 +1,945 @@
+2022-07-29 12:50:08,611 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:09,595 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/malabar-wooden-sofa-smoke-grey?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:10,985 root INFO Malabar Wooden Sofa (Smoke Grey)
+2022-07-29 12:50:27,276 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:29,751 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/taarkashi-sofa-with-integrated-side-table-marengo-grey-velvet?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:31,119 root INFO Taarkashi Sofa With Integrated Side Table (Marengo Grey Velvet)
+2022-07-29 12:50:41,892 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:44,053 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSCO3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:45,443 root INFO Error Occurred!!
+2022-07-29 12:50:45,443 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:50:45,443 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:48,880 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSSM3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:50,301 root INFO Error Occurred!!
+2022-07-29 12:50:50,301 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:50:50,301 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:52,176 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSMB3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:53,597 root INFO Error Occurred!!
+2022-07-29 12:50:53,597 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:50:53,597 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:55,222 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/apollo-infinity-sofa?sku=FNSF53APTA3S000SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:56,675 root INFO Error Occurred!!
+2022-07-29 12:50:56,675 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:50:56,675 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:50:58,456 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/taarkashi-sofa-marengo-grey-velvet?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:50:59,877 root INFO Taarkashi Sofa (Marengo Grey Velvet)
+2022-07-29 12:51:10,547 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:51:12,796 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSVP30R00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:51:14,295 root INFO Error Occurred!!
+2022-07-29 12:51:14,295 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:51:14,295 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:51:20,357 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/winchester-fabric-sofa-ash-grey-velvet?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:51:22,028 root INFO Winchester Fabric Sofa (Ash Grey Velvet)
+2022-07-29 12:52:31,563 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:52:32,047 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSAG3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:52:33,453 root INFO Error Occurred!!
+2022-07-29 12:52:33,453 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:52:33,469 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:52:35,437 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/oxford-infinity-sofa?sku=FNSF51ODCO30R00SAAAA&src=subcat HTTP/1.1" 200 457218
+2022-07-29 12:52:36,890 root INFO Error Occurred!!
+2022-07-29 12:52:36,890 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:52:36,890 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:52:39,858 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/malabar-wooden-sofa-macadamia-brown?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:52:41,310 root INFO Malabar Wooden Sofa (Macadamia Brown)
+2022-07-29 12:53:01,743 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:53:03,915 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/taarkashi-sofa-gainsboro-grey?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:53:05,320 root INFO Taarkashi Sofa (Gainsboro Grey)
+2022-07-29 12:53:18,099 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:53:19,645 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSLA3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:53:21,035 root INFO Error Occurred!!
+2022-07-29 12:53:21,035 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:53:21,035 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:53:22,332 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/apollo-infinity-sofa?sku=FNSF51APSN3S000STAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:53:23,816 root INFO Error Occurred!!
+2022-07-29 12:53:23,816 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:53:23,816 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:53:27,487 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/malabar-wooden-sofa-malibu-blue?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:53:28,893 root INFO Malabar Wooden Sofa (Malibu Blue)
+2022-07-29 12:53:46,295 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:53:49,873 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/chelsea-adjustable-sectional-sofa-brown?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:53:51,278 root INFO Chelsea Adjustable Sectional Sofa (Brown)
+2022-07-29 12:54:01,386 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:54:03,666 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/oxford-infinity-sofa?sku=FNSF51ODBB30R00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:54:05,072 root INFO Error Occurred!!
+2022-07-29 12:54:05,072 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:54:05,072 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:54:06,384 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/thiene-leather-sofa-camel-italian-leather?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:54:07,853 root INFO Thiene Sofa (Camel Italian Leather)
+2022-07-29 12:54:24,646 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:54:26,630 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/apollo-infinity-sofa?sku=FNSF51APCO3S000SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:54:28,082 root INFO Error Occurred!!
+2022-07-29 12:54:28,082 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:54:28,082 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:54:29,848 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/chelsea-sectional-sofa-grey?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:54:31,269 root INFO Chelsea Adjustable Sectional Sofa (Grey)
+2022-07-29 12:54:40,314 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:54:44,125 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/oxford-infinity-sofa?sku=FNSF51ODMB30R00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:54:45,578 root INFO Error Occurred!!
+2022-07-29 12:54:45,578 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:54:45,578 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:54:46,859 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/winchester-fabric-sofa-cobalt?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:54:48,296 root INFO Winchester Fabric Sofa (Cobalt Blue)
+2022-07-29 12:55:41,268 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:55:43,908 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/winchester-fabric-sofa-sea-port-blue-velvet?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:55:45,345 root INFO Winchester Fabric Sofa (Sea Port Blue Velvet)
+2022-07-29 12:56:39,270 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:56:41,785 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/apollo-infinity-sofa?sku=FNSF51APSM30000SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:56:43,425 root INFO Error Occurred!!
+2022-07-29 12:56:43,425 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:56:43,425 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:56:45,550 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/chelsea-adjustable-sofa-grey?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:56:46,940 root INFO Chelsea Adjustable Sofa (Grey)
+2022-07-29 12:56:53,111 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:56:58,578 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSDT3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:57:00,015 root INFO Error Occurred!!
+2022-07-29 12:57:00,015 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:57:00,015 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:57:01,609 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/oxford-infinity-sofa?sku=FNSF51ODDT30R00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-29 12:57:03,077 root INFO Error Occurred!!
+2022-07-29 12:57:03,077 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-29 12:57:03,077 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:57:09,372 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/thiene-sofa-cappuccino-italian-leather?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:57:10,763 root INFO Thiene Sofa (Cappuccino Italian Leather)
+2022-07-29 12:57:27,400 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-29 12:57:32,820 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/granada-sofa-sea-port-blue-velvet?src=subcat HTTP/1.1" 200 None
+2022-07-29 12:57:34,257 root INFO Granada Sofa (Sea Port Blue Velvet)
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,010 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,010 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,026 root INFO Error Occurred!!
+2022-07-29 12:58:28,026 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,041 root INFO Error Occurred!!
+2022-07-29 12:58:28,041 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,057 root INFO Error Occurred!!
+2022-07-29 12:58:28,057 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,073 root INFO Error Occurred!!
+2022-07-29 12:58:28,073 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,088 root INFO Error Occurred!!
+2022-07-29 12:58:28,088 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,104 root INFO Error Occurred!!
+2022-07-29 12:58:28,104 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,119 root INFO Error Occurred!!
+2022-07-29 12:58:28,119 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,135 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,135 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,151 root INFO Error Occurred!!
+2022-07-29 12:58:28,151 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,166 root INFO Error Occurred!!
+2022-07-29 12:58:28,166 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-29 12:58:28,182 root INFO Error Occurred!!
+2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
