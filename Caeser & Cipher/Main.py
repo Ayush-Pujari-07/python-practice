@@ -1,35 +1,55 @@
-def paint_calc(height, width, cover):
-    number_of_cans = (height * width) / cover
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
+            'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
+            'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-    return round(number_of_cans)
-
-
-def check_prime(num):
-    flag = False
-    # prime numbers are greater than 1
-    if num > 1:
-        # check for factors
-        for i in range(2, num):
-            if (num % i) == 0:
-                # if factor is found, set flag to True
-                flag = True
-                # break out of loop
-                break
-
-    # check if flag is True
-    if flag:
-        return print(num, "is not a prime number")
-    else:
-        return print(num, "is a prime number")
+direction = input("Type 'encode' to encrypt and 'decode to decrypt.\n")
+text = input("Type your message here:\n").lower()
+shift = int(input("Type the shift number:\n"))
 
 
-text_h = int(input('Enter the Height of wall: '))
-text_w = int(input('Enter the width of wall: '))
-coverage = 5
+# Function for Encoding the words given as input
+def encrypt(plain_text, shift_amount=0):
+    """
+    Inside this function, shift each letter of the 'text' forwards in the alphabetical order by shifting the shift
+    amount and print the encrypted text.
 
-Cans = paint_calc(height=text_h, width=text_w, cover=coverage)
+    :param plain_text:
+    :param shift_amount:
+    :return: str:
+    """
+    cipher_text = ""
+    for letter in plain_text:
+        position = alphabet.index(letter)
+        new_position = position + shift_amount
+        new_letter = alphabet[new_position]
+        cipher_text += new_letter
 
-print(f'No of can required for Painting is: {Cans}')
+    print(f"The Encoded Text is {cipher_text}")
+    # return cipher_text
 
-# n = int(input('Check This number: '))
-check_prime(num=Cans)
+
+def decrypt(cipher_text, shift_amount=0):
+    """
+        Inside this function, shift each letter of the 'text' backward in the alphabetical order by shifting the shift
+        amount and print the decrypted text.
+
+        :param cipher_text:
+        :param shift_amount:
+        :return: str:
+        """
+    plain_text = ""
+    for letter in cipher_text:
+        position = alphabet.index(letter)
+        new_position = position - shift_amount
+        new_letter = alphabet[new_position]
+        plain_text += new_letter
+
+    print(f"The Decoded text is {plain_text}")
+    # return plain_text
+
+
+if direction == 'encode':
+    encrypt(plain_text=text, shift_amount=shift)
+
+elif direction == 'decode':
+    decrypt(cipher_text=text, shift_amount=shift)

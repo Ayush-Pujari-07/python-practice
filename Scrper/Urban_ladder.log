@@ -943,3 +943,20 @@
 2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
 2022-07-29 12:58:28,182 root INFO Error Occurred!!
 2022-07-29 12:58:28,182 root ERROR Invalid URL 'nan': No scheme supplied. Perhaps you meant http://nan?
+2022-07-30 12:53:00,199 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-30 12:53:02,265 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/malabar-wooden-sofa-smoke-grey?src=subcat HTTP/1.1" 200 None
+2022-07-30 12:53:03,718 root INFO Error Occurred!!
+2022-07-30 12:53:03,718 root ERROR [WinError 183] Cannot create a file when that file already exists: 'D:\\Project\\Udemy_practice\\Scrper\\Malabar Wooden Sofa (Smoke Grey)'
+2022-07-30 12:53:03,719 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-30 12:53:08,247 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/taarkashi-sofa-with-integrated-side-table-marengo-grey-velvet?src=subcat HTTP/1.1" 200 None
+2022-07-30 12:53:09,643 root INFO Error Occurred!!
+2022-07-30 12:53:09,643 root ERROR [WinError 183] Cannot create a file when that file already exists: 'D:\\Project\\Udemy_practice\\Scrper\\Taarkashi Sofa With Integrated Side Table (Marengo Grey Velvet)'
+2022-07-30 12:53:09,645 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-30 12:53:12,767 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSCO3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-30 12:53:14,193 root INFO Error Occurred!!
+2022-07-30 12:53:14,194 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-30 12:53:14,195 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
+2022-07-30 12:53:16,019 urllib3.connectionpool DEBUG https://www.urbanladder.com:443 "GET //products/lewis-infinity-sofa?sku=FNSF51LSSM3SR00SAAAA&src=subcat HTTP/1.1" 200 None
+2022-07-30 12:53:17,408 root INFO Error Occurred!!
+2022-07-30 12:53:17,408 root ERROR 'NoneType' object has no attribute 'text'
+2022-07-30 12:53:17,409 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): www.urbanladder.com:443
