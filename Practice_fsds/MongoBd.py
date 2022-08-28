@@ -4,6 +4,7 @@ client = pymongo.MongoClient("mongodb+srv://iNeuron:143OnePiece@cluster1.tuzfyk7
                              "=majority")
 db = client.test
 
+print(db)
 
 def mongo_enterdata():
     global collection
