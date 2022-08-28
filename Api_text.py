@@ -4,8 +4,9 @@ import pymongo
 # call the flask class into an object app
 app = Flask(__name__)
 
+credential = "##############"
 client = pymongo.MongoClient(
-    "mongodb+srv://iNeuron:143Onepiece@cluster1.tuzfyk7.mongodb.net/?retryWrites=true&w=majority")
+    f"mongodb+srv://{credential}@cluster1.tuzfyk7.mongodb.net/?retryWrites=true&w=majority")
 db = client.test
 
 
